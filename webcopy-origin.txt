@@ -1,0 +1,244 @@
+Uri: https://bellarosadelivery.com/
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\index.htm
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/details/1
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\details\1.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/details/2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\details\2.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/details/3
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\details\3.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/details/4
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\details\4.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/details/5
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\details\5.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/order/status
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\order\status.html
+Content Type: text/html
+
+Uri: https://bellarosadelivery.com/public/css/all.min.css?v=1.0.1
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\css\all.min.css
+Content Type: text/css
+
+Uri: https://bellarosadelivery.com/public/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bellarosadelivery.com/public/css/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\css\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://bellarosadelivery.com/public/css/global.css?v=1.0.1
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\css\global.css
+Content Type: text/css
+
+Uri: https://bellarosadelivery.com/public/images/1920x28.png
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\1920x28.png
+Content Type: image/png
+
+Uri: https://bellarosadelivery.com/public/images/banner_pizza.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\banner_pizza.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/check.png
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\check.png
+Content Type: image/png
+
+Uri: https://bellarosadelivery.com/public/images/favicon_pizza.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\favicon_pizza.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/logo_pizza.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\logo_pizza.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/new-waves.svg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\new-waves.svg
+Content Type: image/svg+xml
+
+Uri: https://bellarosadelivery.com/public/images/pizzafoto.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\pizzafoto.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova1.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova1.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova12.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova12.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova2.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova2.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova3.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova3.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova4.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova4.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova5.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova5.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova7.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova7.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova8.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova8.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/images/prova9.jpg
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\images\prova9.jpg
+Content Type: image/jpeg
+
+Uri: https://bellarosadelivery.com/public/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/js/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/js/flatpickr.pt.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\flatpickr.pt.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/js/functions.js?v=1.0.1
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\functions.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/js/jquery.mask.min.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\jquery.mask.min.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-duotone-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-duotone-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-light-300.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-light-300.woff2
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-thin-100.ttf
+Content Type: application/octet-stream
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-thin-100.woff
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-thin-100.woff
+Content Type: application/font-woff
+
+Uri: https://bellarosadelivery.com/public/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\public\webfonts\fa-thin-100.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=1020707886838253&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bellarosadelivery.com\tr
+Content Type: text/plain
+
